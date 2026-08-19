@@ -31,7 +31,7 @@ x-note: >-
   security.txt, /docs, /api all serve the same 447KB HTML page). The 500-global backing tag is
   likely a name collision from portfolio scraping; the pointed-to website is an industrial
   spare-parts firm, not a tech/API provider.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
